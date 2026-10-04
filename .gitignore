@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.cache/
+build/
+output_test/
+*.log
+
+# App dynamic config
+.app_config.json
+
+# Keep dist and all project source files
